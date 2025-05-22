@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1747885585791",
+    "email": "UGmelsawsh345@f-eng.tanta.edu.eg",
+    "username": "melsawsh345@gmail.com",
+    "password": "Mohamed@22",
+    "department": "computer-engineering",
+    "firstName": "Mohamed",
+    "lastName": "Elsawah",
+    "createdAt": "2025-05-22T03:46:25.791Z"
+  },
+  {
+    "id": "1747886876435",
+    "email": "UG_31157@f-eng.tanta.edu.eg",
+    "username": "melsawsh345",
+    "password": "Mohamed@22",
+    "department": "computer-engineering",
+    "firstName": "Mohamed",
+    "lastName": "Elsawah",
+    "createdAt": "2025-05-22T04:07:56.435Z"
+  }
+]
